@@ -1,0 +1,25 @@
+{
+  "orders": [
+      {
+        "id": "1",
+        "name": "Basic order",
+        "reference": "1337",
+        "state": "A Livrer"
+      },
+      {
+        "id": "2",
+        "name": "Awesome order",
+        "reference": "42",
+        "state": "En Cours"
+      },
+      {
+        "id": "3",
+        "name": "Powerful order",
+        "reference": "777",
+        "state": "Livrée"
+      }
+    ],
+  "profile": {
+    "name": "typicode"
+  }
+}
