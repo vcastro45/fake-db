@@ -1,22 +1,46 @@
 {
-  "orders": [
+  "monster": [
       {
         "id": "1",
-        "name": "Basic order",
-        "reference": "1337",
-        "state": "A Livrer"
+        "name": "Aragog",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/Aragog.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
       },
       {
         "id": "2",
-        "name": "Awesome order",
-        "reference": "42",
-        "state": "En Cours"
+        "name": "Cerbère",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/Cerbere.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
       },
       {
         "id": "3",
-        "name": "Powerful order",
-        "reference": "777",
-        "state": "Livrée"
+        "name": "Megalotaria",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/LochNessMegalotaria.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
+      },
+      {
+        "id": "4",
+        "name": "BigFoot",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/BigFoot.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
+      },
+      {
+        "id": "5",
+        "name": "Monstre de Flatwoods",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/Flatwoods.jpeg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
+      },
+      {
+        "id": "6",
+        "name": "Amarok",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/Amarok.jpg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
+      },
+      {
+        "id": "7",
+        "name": "Nyaminyami",
+        "photo": "https://raw.githubusercontent.com/vcastro45/fake-db/master/Nyaminyami.jpeg",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis id erat at fermentum. Donec tortor arcu, vulputate ac semper non, lacinia sit amet nibh. Morbi molestie, turpis ac lacinia commodo, dui sapien fringilla risus, semper posuere nisi eros a ante"
       }
     ]
 }
